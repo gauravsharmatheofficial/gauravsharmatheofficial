@@ -63,6 +63,6 @@
 
 ## ❤ Views and Followers
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsharmatheofficial&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsharmatheofficial" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsharmatheofficial&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsharmatheofficial" /> 
 <a href="https://github.com/gauravsharmatheofficial?tab=followers"><img src="https://img.shields.io/github/followers/gauravsharmatheofficial?label=Followers&style=social" alt="GitHub Badge"></a>
+        </p>
