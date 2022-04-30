@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gaurav20032020@gmail.com**
 
-## 🚀 Skills:
+## 🚀 Skills
 
 <h3 align="left"></h3>
 <p align="left">
