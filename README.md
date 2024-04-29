@@ -14,9 +14,8 @@
 
 - 🚀 I love challenges! I've participated in hackathons like hackCBS 5.0 and Vihan 6.0, where I collaborated with talented individuals to solve real-world problems through innovative solutions.
 
-- 📫 Interested in collaborating or have any questions? Feel free to reach out to me via email or connect with me on LinkedIn. Let's build something amazing together!
+- 📫 Interested in collaborating or have any questions? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gauravsharmatheofficial/). Let's build something amazing together!
 
-- 💬 Ask me about **Wordpress**
 
   
 ## 🌐 Socials:
