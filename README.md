@@ -4,12 +4,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Visit my Portfolio [Portfolio](https://gauravsharmatheofficial.netlify.app/)
-
-- 🌱 I’m currently learning **Web development**
-
+- 🔭 Feel free to explore my Portfolio [here](https://gauravsharmatheofficial.netlify.app/)to get a glimpse of my work.
+- 🌱 I'm Gaurav Sharma, a Freelance Website Developer with 2 years of hands-on experience in crafting digital experiences. Passionate about coding and continuously learning new technologies to enhance my skills.
+- 💻 I have contributed to Open Source projects during HacktoberFest, embracing collaboration and community-driven development.
+- 🛠️ Previously, I undertook a stimulating 2-month web developer internship at STEAM Troops Innovation Labs Pvt. Ltd., where I honed my skills and gained practical industry experience
+- 🚀 I love challenges! I've participated in hackathons like hackCBS 5.0 and Vihan 6.0, where I collaborated with talented individuals to solve real-world problems through innovative solutions.
+- 📫 Interested in collaborating or have any questions? Feel free to reach out to me via email or connect with me on LinkedIn. Let's build something amazing together!
 - 💬 Ask me about **Wordpress**
 
+  
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravsharmatheofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsharmatheofficial) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gauravsharmatwr)
